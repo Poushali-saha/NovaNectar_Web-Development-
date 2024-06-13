@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+.topright{
+    width: 50%;
+    height: 50vh;
+}
+.section1{
+    height: 50vh;
+    padding: 53px;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.logo{
+   font-size: 2rem;
+}
+.topright .food{
+    width: 28rem;
+    align-content: center;
+    margin-top: 5px;
+   
+   
+}
+.text-center{
+    text-align: center;
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.section3 h1{
+    font-size: 2rem;
+}
+.section2 p{
+   padding-left: 25px;
+   padding-right: 25px;
+   font-size: 1rem;
+   padding: 0 8vw;
+   margin-bottom: 50px;
+   
+}
+.section1 h1{
+    font-size: 2rem;
+}
+.section1 p{
+    font-size: 1rem;
+    
+}
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section2{
+    padding: 53px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+    background-color: rgb(88, 29, 97);
+    color: white;
+}
